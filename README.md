@@ -18,5 +18,6 @@
  	3)  git push    
 ###### 6. 자신의 GitHub 페이지에 방금 올린 파일이 제대로 있는지 확인  
 ###### 7. Pull Request 보내기  
- 	1)  new pull Request 클릭  
+ 	1)  New pull request 클릭  
+	2)  Create pull request 클릭
 ###### 8. Pull Request 보내지고, 받아들여졌는지 확인  
